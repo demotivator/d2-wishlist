@@ -166,3 +166,46 @@ dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717
 dimwishlist:item=2563012876&perks=1482024992,791862061,4071163871,47981717
 dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
 dimwishlist:item=2563012876&perks=1482024992,679225683,4071163871,47981717
+
+// Hung Jury SR4 (Adept) (PvP)
+//notes:PvP- demotivator - no distractions, box breathing stability or handling MW
+dimwishlist:item=4074251943&perks=839105230,3177308360,2866798147,2551157718,2839173408
+
+// Path of Least Resistance (PvE)
+//notes:PvE- demotivator - stats for all / voltshot, high handling and reload
+dimwishlist:item=2827764482&perks=1840239774,2749775325,1409206216,1720528630
+
+// Prodigal Return (PvE)
+//notes:PvE- demotivator - fieldprep / voltshot
+dimwishlist:item=268260373&perks=3525010810,409831596,2869569095,2173046394
+
+// Judgment of Kelgorath (PvE)
+//notes:PvE- demotivator - Pugilist / Close to melee, reload MW, overall high handling / reload, use with strand grapple melee builds
+dimwishlist:item=2978226043&perks=594346985,679225683,536173722,2241043034
+
+// Ikelos_SG_V1.0.3 (PvE)
+//notes:PvE- demotivator - Pugilist / Trench Barrel, handling MW, overall high handling / reload, use with strand grapple melee builds
+dimwishlist:item=1168625549&perks=1300023272,106909392,536173722,2459015849
+
+// Circular Logic (PvE)
+//notes:PvE- demotivator - Feeding frenzy / Hatchling for add clear
+dimwishlist:item=2187717691&perks=839105230,1885400500,2779035018,831391274
+
+// Synchronic Roulette (PvE)
+//notes:PvE- demotivator - fluted, flared / light mag, pulse monitor and pugilist / hatchling, reload mw
+dimwishlist:item=811403305&perks=1840239774,3230963543,972757866,691659142
+dimwishlist:item=811403305&perks=1840239774,679225683,972757866,691659142
+dimwishlist:item=811403305&perks=1840239774,3230963543,972757866,831391274
+dimwishlist:item=811403305&perks=1840239774,679225683,972757866,831391274
+
+// Round Robin (PvP)
+//notes:PvP- demotivator - fluted / ricochet / keep away / kill clip, stability mw
+dimwishlist:item=2034215657&perks=1840239774,1885400500,3198323828,2923251173
+
+// Volta Bracket (PvP)
+//notes:PvP- demotivator - fluted / appended / firmly planted / under pressure, handling mw
+dimwishlist:item=3920310144&perks=1840239774,1087426260,3920370755,3755250867
+
+// Volta Bracket (PvE)
+//notes:PvP- demotivator - fluted / appended / firmly planted / hatchling, handling mw
+dimwishlist:item=3920310144&perks=1840239774,1087426260,3920370755,102912326
