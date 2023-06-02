@@ -213,3 +213,13 @@ dimwishlist:item=3920310144&perks=1840239774,1087426260,3920370755,102912326
 // Bite of the Fox (PvP)
 //notes:PvP- demotivator - fluted / accurized / snapshot / opening shot, handling mw
 dimwishlist:item=1403800851&perks=1840239774,3142289711,957782887,47981717
+
+// Mercurial Overreach (PvP)
+//notes:PvP- demotivator - fluted / ricochet / snapshot / opening shot, handling mw
+dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717,1067908860
+
+// Pressurized Precision (PvP)
+//notes:PvP- demotivator - extended / projection fuse / moving target (or discord/perpetual) / rangefinder, charge time mw
+dimwishlist:item=1084190509&perks=1467527085,2969185026,588594999,2846385770
+dimwishlist:item=1084190509&perks=1467527085,2969185026,3978468247,2846385770
+dimwishlist:item=1084190509&perks=1467527085,2969185026,1428297954,2846385770
