@@ -223,3 +223,16 @@ dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717,10679
 dimwishlist:item=1084190509&perks=1467527085,2969185026,588594999,2846385770
 dimwishlist:item=1084190509&perks=1467527085,2969185026,3978468247,2846385770
 dimwishlist:item=1084190509&perks=1467527085,2969185026,1428297954,2846385770
+
+// Pressurized Precision (PvE)
+//notes:PvE- demotivator - Discord refunds ammo, per CammyCakes great in the lost sector farm build
+dimwishlist:item=1084190509&perks=3978468247
+dimwishlist:item=1084190509&perks=3978468247,1546637391
+
+// Edge Transit (PvE)
+//notes:PvE- demotivator - Cascade point for increased DPS, Deconstruct for free ammo and better total damage
+dimwishlist:item=568611923&perks=3751912585,3993379141
+
+// Scatter Signal (PvE)
+//notes:PvE- demotivator - Slice and Deconstruct ought to do great on champions and mini-bosses, sever them and generate free ammo
+dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,1164602481
