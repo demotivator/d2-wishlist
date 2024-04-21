@@ -236,3 +236,14 @@ dimwishlist:item=568611923&perks=3751912585,3993379141
 // Scatter Signal (PvE)
 //notes:PvE- demotivator - Slice and Deconstruct ought to do great on champions and mini-bosses, sever them and generate free ammo
 dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,1164602481
+
+// Pressurized Precision (PvP)
+//notes:PvP- demotivator - Arrowhead for recoil and handling, keep away / headseeker
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+
+// Midnight Coup (PvP)
+//notes:PvP- demotivator - Smallbore, accurized, range mw. Moving target / zen, maybe EP / OS. Stability mw is ok also.
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,47981717
