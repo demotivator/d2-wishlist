@@ -265,3 +265,17 @@ dimwishlist:item=2499720827&perks=3824105627,3425386926
 dimwishlist:item=570866107&perks=839105230,106909392,3978468247,469285294
 dimwishlist:item=570866107&perks=1840239774,106909392,3978468247,469285294
 
+// Mountaintop (PvE)
+//notes:PvE- demotivator - hard launch, spike / implosion, ALH / Recombination, LFG / Frenzy, impulse / frenzy. Other perk combos might work, but these cover good single target damage options.
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3492396210,1556840489,4104185692
+dimwishlist:item=568611922&perks=981914802,3301904089,1556840489,4104185692
+dimwishlist:item=568611922&perks=981914802,3492396210,951095735,4104185692
+dimwishlist:item=568611922&perks=981914802,3301904089,951095735,4104185692
+
+// Elsie's Rifle (PvP)
+//notes:PvP- demotivator - Arrowhead, Ricochet, zen / keep away / underover, headseeker. Range / stability / handling mw.
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,460017080
